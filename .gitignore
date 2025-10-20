@@ -1,6 +1,6 @@
 .venv
 .vscode
 __pycache__
-./config.py
-config
+.\config.py
 config.py
+.\config
