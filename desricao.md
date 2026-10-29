@@ -76,8 +76,8 @@ DB_CONFIG = {
     "host": "localhost",
     "port": 5432,
     "database": "bi_dw", 
-    "username": "postgres",
-    "password": "postgres123"
+    "username": "xxxxxxx",
+    "password": "xxxxxxx"
 }
 
 def get_engine():
